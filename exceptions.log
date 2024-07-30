@@ -1,0 +1,35 @@
+2024-07-30T02:03:03.314Z [31merror[39m: uncaughtException: errorMessage is not defined
+ReferenceError: errorMessage is not defined
+    at exports.login (C:\Users\ather\Desktop\Learn\TryProject-main\TryProject-main\backend\controllers\AuthController.js:20:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+ReferenceError: errorMessage is not defined
+    at exports.login (C:\Users\ather\Desktop\Learn\TryProject-main\TryProject-main\backend\controllers\AuthController.js:20:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-07-30T02:03:31.276Z [31merror[39m: uncaughtException: errorMessage is not defined
+ReferenceError: errorMessage is not defined
+    at exports.login (C:\Users\ather\Desktop\Learn\TryProject-main\TryProject-main\backend\controllers\AuthController.js:22:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+ReferenceError: errorMessage is not defined
+    at exports.login (C:\Users\ather\Desktop\Learn\TryProject-main\TryProject-main\backend\controllers\AuthController.js:22:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-07-30T02:06:08.400Z [31merror[39m: uncaughtException: errorMessage is not defined
+ReferenceError: errorMessage is not defined
+    at exports.login (C:\Users\ather\Desktop\Learn\TryProject-main\TryProject-main\backend\controllers\AuthController.js:20:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+ReferenceError: errorMessage is not defined
+    at exports.login (C:\Users\ather\Desktop\Learn\TryProject-main\TryProject-main\backend\controllers\AuthController.js:20:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-07-30T02:06:22.952Z [31merror[39m: uncaughtException: errorMessage is not defined
+ReferenceError: errorMessage is not defined
+    at exports.login (C:\Users\ather\Desktop\Learn\TryProject-main\TryProject-main\backend\controllers\AuthController.js:20:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+ReferenceError: errorMessage is not defined
+    at exports.login (C:\Users\ather\Desktop\Learn\TryProject-main\TryProject-main\backend\controllers\AuthController.js:20:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-07-30T02:06:34.020Z [31merror[39m: uncaughtException: error is not defined
+ReferenceError: error is not defined
+    at exports.login (C:\Users\ather\Desktop\Learn\TryProject-main\TryProject-main\backend\controllers\AuthController.js:19:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5) 
+ReferenceError: error is not defined
+    at exports.login (C:\Users\ather\Desktop\Learn\TryProject-main\TryProject-main\backend\controllers\AuthController.js:19:35)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
